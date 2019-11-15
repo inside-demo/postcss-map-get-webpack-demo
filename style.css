@@ -1,0 +1,7 @@
+$mymap: (
+    mycolor: #c0ffee
+)
+
+p {
+    color: map-get($mymap, mycolor);
+}

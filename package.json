@@ -1,0 +1,23 @@
+{
+  "name": "postcss-map-get-widget-demo",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webp": "webpack"
+  },
+  "keywords": [],
+  "author": "scrum",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "css-loader": "^3.2.0",
+    "postcss-advanced-variables": "^3.0.0",
+    "postcss-loader": "^3.0.0",
+    "postcss-map-get": "^0.2.5",
+    "postcss-preset-env": "^6.7.0",
+    "postcss-scss": "^2.0.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
